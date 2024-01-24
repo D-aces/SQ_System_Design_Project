@@ -1,0 +1,54 @@
+@options
+@packages
+@argfile
+-classpath
+'D:/Desktop/Career and Education Files/Ontario Tech/Third Year Courses/2023 - 2024/Semester 2/Software Quality/Code_Workspace/BinaryCalculator/target/classes;D:/Desktop/Career and Education Files/Ontario Tech/Third Year Courses/2023 - 2024/Semester 2/Software Quality/Code_Workspace/BinaryCalculator/target/test-classes;C:/Users/erdmr/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/erdmr/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.7'
+-sourcepath
+'D:/Desktop/Career and Education Files/Ontario Tech/Third Year Courses/2023 - 2024/Semester 2/Software Quality/Code_Workspace/BinaryCalculator/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Desktop/Career and Education Files/Ontario Tech/Third Year Courses/2023 - 2024/Semester 2/Software Quality/Code_Workspace/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/javase/7/docs/api' 'D:/Desktop/Career and Education Files/Ontario Tech/Third Year Courses/2023 - 2024/Semester 2/Software Quality/Code_Workspace/BinaryCalculator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'D:/Desktop/Career and Education Files/Ontario Tech/Third Year Courses/2023 - 2024/Semester 2/Software Quality/Code_Workspace/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\classes = 1706048268278
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\test-classes = 1706048268476
+C:\Users\erdmr\.m2\repository\junit\junit\4.11\junit-4.11.jar = 1705451766251
+C:\Users\erdmr\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar = 1705451766250
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\src\test\java = 1706047265524
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1706048842285
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1706048842292
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\element-list = 1706048842215
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\help-doc.html = 1706048842332
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\index-all.html = 1706048842319
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\index.html = 1706048842320
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\jquery-ui.overrides.css = 1706048842441
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1706048842304
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1706048842295
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1706048842261
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1706048842300
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\script.js = 1706048842343
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\search.js = 1706048842349
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\stylesheet.css = 1706048842336
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1706048842308
+D:\Desktop\Career and Education Files\Ontario Tech\Third Year Courses\2023 - 2024\Semester 2\Software Quality\Code_Workspace\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1706048842303
