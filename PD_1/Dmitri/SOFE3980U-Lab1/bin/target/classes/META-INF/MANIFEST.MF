@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Built-By: erdmr
+Build-Jdk: 17.0.5
+Class-Path: joda-time-2.9.2.jar
+Main-Class: com.ontariotechu.sofe3980U.App
+Created-By: Maven Integration for Eclipse
+
