@@ -1,5 +1,5 @@
-./BinaryCalculator/.vscode/*
+*/.vscode/*
 
-./BinaryCalculator/target/*
+*/target/*
 
 *.mp4
