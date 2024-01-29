@@ -165,4 +165,4 @@ public class Binary
 	
 		return res;//Return the result
 	}
-}	
+}
