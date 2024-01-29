@@ -1,5 +1,5 @@
 # System Design Project - Software Quality Course
-## [Project Deliverable 1](</PD_1_Software_Project_Management_and_Comprehension_Tool_(Apache Maven)>)
+## [Project Deliverable 1](</PD_1>)
 > [!NOTE]
 > 🕔 Due: Jan 29, 11:59pm
 
