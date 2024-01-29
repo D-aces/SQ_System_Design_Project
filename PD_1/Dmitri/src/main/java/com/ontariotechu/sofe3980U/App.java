@@ -24,5 +24,11 @@ public class App
         System.out.println( "Second binary number is "+binary2.getValue());
 		Binary sum= Binary.add(binary1,binary2);
 		System.out.println( "Their summation is "+sum.getValue());
+		Binary bor= Binary.or(binary1,binary2);
+		System.out.println( "Their bitwise OR is "+bor.getValue());
+		Binary band= Binary.and(binary1,binary2);
+		System.out.println( "Their bitwise AND is "+band.getValue());
+		Binary bmut= Binary.multiply(binary1,binary2);
+		System.out.println( "Their bitwise mutiplied is "+bmut.getValue());
     }
 }
