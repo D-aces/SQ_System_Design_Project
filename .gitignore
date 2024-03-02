@@ -1,2 +1,4 @@
+# Accounting for nested folders
+*/*/*/*/target
 */*/*/target
 */*/target
