@@ -1,0 +1,19 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: binarycalculator-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: binarycalculator
+  template:
+    metadata:
+      labels:
+        app: binarycalculator
+    spec:
+      containers:
+        - name: binarycalculator-container
+          image: northamerica-northeast2-docker.pkg.dev/autonomous-tube-415919/sofe3980u/binarycalculator
+          ports:
+          - containerPort: 8080
